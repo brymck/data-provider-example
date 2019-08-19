@@ -1,0 +1,4 @@
+boto3==1.9.210
+Flask==1.1.1
+psycopg2==2.8.3
+awscli
